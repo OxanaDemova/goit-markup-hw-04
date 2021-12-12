@@ -485,7 +485,7 @@ img {
 .footer-social-list-icon {
   fill: var(--main-color);
 }
-.footer-social-list-link:hover {
+.footer-social-list-link:hover .footer-social-list-link:focus {
   fill: var(--main-color);
   background-color: var(--accent-color);
   border-radius: 50px;
